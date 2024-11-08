@@ -15,4 +15,5 @@
 |10        |Homemade chassis   |Knutsel chassis         |Recup      |€ 0           |1     |€ 0      |
 |11        |Klein materiaal    |Soldeer tin/bouten/etc  |Recup      |€ 0           |1     |€ 0      |
 
+Batterij batterijbhouder!
 SUBTOTAAL : € 79,4
