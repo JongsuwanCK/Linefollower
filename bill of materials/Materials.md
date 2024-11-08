@@ -13,3 +13,6 @@
 |8         |Polulu ball caster |Ondersteuning chassis   |Nieuw      |€ 2,70        |1     |€ 2,70   |
 |9         |Polulu wheel       |40×7mm per paar         |Nieuw      |€ 5,65        |1     |€ 5,65   |
 |10        |Homemade chassis   |Knutsel chassis         |Recup      |€ 0           |1     |€ 0      |
+|11        |Klein materiaal    |Soldeer tin/bouten/etc  |Recup      |€ 0           |1     |€ 0      |
+
+SUBTOTAAL : € 79,4
