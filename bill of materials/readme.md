@@ -15,7 +15,8 @@
 |10        |Homemade chassis   |Knutsel chassis         |Recup      |€ 0           |1     |€ 0      |
 |11        |18650 Batterij     |18650 3.6V              |Nieuw      |€ 4.99        |2     |€ 9.98   |
 |12        |Battery houder     |18650 dubbel houder     |Nieuw      |€ 2.49        |1     |€ 2.49   |
-|13        |Klein materiaal    |Soldeer tin/bouten/etc  |Recup      |€ 0           |1     |€ 0      |
+|13        |Batterij oplader   |18650 batterij oplader  |Recup      |€ 0           |0     |€ 0      |
+|14        |Klein materiaal    |Soldeer tin/bouten/etc  |Recup      |€ 0           |1     |€ 0      |
 
 Batterij batterijbhouder!
 SUBTOTAAL : € 91,87
