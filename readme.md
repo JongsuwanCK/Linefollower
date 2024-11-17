@@ -1,7 +1,6 @@
 # LineFollower
 
-
-![20241113_211912](https://github.com/user-attachments/assets/f219c7e2-f338-4b1b-b357-1d1c7f9de7e3)
+![20241117_175119](https://github.com/user-attachments/assets/870b748d-eb1d-4f2d-bd0e-d8237d4b21e9)
 
   
 ## specifications
