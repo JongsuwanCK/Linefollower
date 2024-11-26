@@ -2,30 +2,41 @@
 
 Montage plan voor line follower plan B.
 
-### Stap 1
+### Stap 1 : Bestel alle componenten
 
-Bestel alle componenten uit de bill of materials.
+Zorg ervoor dat je alle onderdelen uit de bill of materials (BOM) aanschaft.
 
-### Stap 2
+### Stap 2 : Controle componenten
 
-Controleer grondig of elke materiaal werkt, dit doe je aan de hand van de proof of concepts.
+Test elk onderdeel grondig aan de hand van proof-of-concept-opstellingen. Dit voorkomt problemen tijdens de montage.
 
-### Stap 3
+### Stap 3 : PCB voorbereiding
 
-Afhankelijk hoe jij je chassis wilt, zal je voor plan B moeten werken met een breadboard of PCB, ik heb gekozen om een PCB te solderen.
+Kies voor een PCB-oplossing voor een nette en permanente montage. Volg de stappen hieronder:
 
-*Soldeer de vrouwelijke/mannelijke connectoren (naar jouw voorkeur) op de Arduino Nano screw voor de volgende onderdelen*
+*Soldeer vrouwelijke/mannelijke connectoren (naar jouw voorkeur) op de Arduino Nano screw voor de volgende onderdelen*
 - HC05 (Bluethooth communicatie)
-- DRV8833 (H-brug)
+- DRV8833 (H-brug motor driver)
 
-*Soldeer de vrouwelijke/mannelijke connectoren (naar jouw voorkeur) op de PCB plaat voor de volgende onderdelen*
-- Power LED
-- Signal LED
-- Power switch
-- Interrupt button
-- Motor aansluiten (Je kan deze rechtstreeks ook verbinden met de DRV8833.)
+*Soldeer  vrouwelijke/mannelijke connectoren (naar jouw voorkeur) op de PCB plaat voor de volgende onderdelen*
+- Power LED (Om te zien of het systeem aan staat of niet)
+- Signal LED (Statusweergave bv. Run/Stop/Calibrating)
+- Power switch (Om het systeem in- en uit te schakelen)
+- Interrupt button (Voor het starten/stoppen van de robot)
+- Motor aansluiten ((optioneel kun je deze direct aansluiten op de DRV8833)
 
-### Stap 4
+### Stap 4 Bedrading volgens schema
+
+Begin met het chassis te bouwen, dit is een stuk PVC plaat dat ik verwerkt hebt naar een rechthoekige plaat.
+
+*Monteer de volgende onderdelen op het chassis*
+
+- De motoren
+- De controller (Arduino Nano)
+- De batterijhouder
+
+
+### Stap 5 Bedrading volgens schema
 
 Sluit de component aan zoals op het elektronisch schema.
 
