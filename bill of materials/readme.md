@@ -18,4 +18,4 @@
 |13        |Arduino materiaal  |Weerstanden, LED, etc   |Recup      |€ 2           |1     |€ 2      |
 |14        |Montage materiaal  |Soldeer tin/bouten/etc  |Recup      |€ 2           |1     |€ 2      |
 
-* SUBTOTAAL : € 89,97 *
+SUBTOTAAL : € 89,97
