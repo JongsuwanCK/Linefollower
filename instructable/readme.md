@@ -30,7 +30,7 @@ Kies voor een PCB-oplossing voor een nette en permanente montage. Volg de stappe
 - Interrupt button (Voor het starten/stoppen van de robot)
 - Motor aansluiten (Optioneel: je kunt de motoren direct op de DRV8833 aansluiten.)
 
-### Stap 4 Bedrading volgens schema
+### Stap 4 : Bouw van de line follower
 
 Voor een stevig chassis gebruik je een PVC-plaat. Volg de stappen hieronder:
 
@@ -51,11 +51,11 @@ Monteer de batterijhouder op een toegankelijke plaats.
 Bevestig de controller en zorg ervoor dat er ruimte is voor de bedrading.
 
 
-### Stap 5 Bedrading volgens schema
+### Stap 5 : Bedrading volgens schema
 
 Sluit de component aan zoals op het elektronisch schema.
 
-### Stap 5
+### Stap 6 : Code
 
 Download de finale code naar je device (Arduino Nano).
 
