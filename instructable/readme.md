@@ -13,6 +13,7 @@ Controleer grondig of elke materiaal werkt, dit doe je aan de hand van de proof 
 ### Stap 3
 
 Afhankelijk hoe jij je chassis wilt, zal je voor plan B moeten werken met een breadboard of PCB, ik heb gekozen om een PCB te solderen.
+
 *Soldeer de vrouwelijke/mannelijke connectoren (naar jouw voorkeur) op de Arduino Nano screw voor de volgende onderdelen*
 - HC05 (Bluethooth communicatie)
 - DRV8833 (H-brug)
@@ -25,5 +26,10 @@ Afhankelijk hoe jij je chassis wilt, zal je voor plan B moeten werken met een br
 - Motor aansluiten (Je kan deze rechtstreeks ook verbinden met de DRV8833.)
 
 ### Stap 4
+
+Sluit de component aan zoals op het elektronisch schema.
+
 ### Stap 5
+
+Download de code naar je device.
 
