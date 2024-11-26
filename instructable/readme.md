@@ -34,15 +34,18 @@ Kies voor een PCB-oplossing voor een nette en permanente montage. Volg de stappe
 
 Voor een stevig chassis gebruik je een PVC-plaat. Volg de stappen hieronder:
 
--Snijd de PVC-plaat:
+Snijd de PVC-plaat:
+
 Snijd de plaat in een rechthoekige vorm die groot genoeg is om alle componenten te huisvesten. Zorg dat de afmetingen passen bij de motoren, batterijhouder en controller.
 
-- Boor gaten:
+-Boor gaten:
+
 Markeer de posities voor het bevestigen van motoren, batterijhouder en controller (Arduino Nano).
 Boor de benodigde gaten met een geschikte boormaat.
 Controleer of de gaten overeenkomen met de schroefgaten van de onderdelen.
 
 -Monteer de onderdelen:
+
 Bevestig de motoren stevig met schroeven.
 Monteer de batterijhouder op een toegankelijke plaats.
 Bevestig de controller en zorg ervoor dat er ruimte is voor de bedrading.
@@ -54,5 +57,5 @@ Sluit de component aan zoals op het elektronisch schema.
 
 ### Stap 5
 
-Download de code naar je device.
+Download de finale code naar je device (Arduino Nano).
 
