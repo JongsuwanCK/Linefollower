@@ -14,8 +14,9 @@
 |10        |Homemade chassis   |Hard PVC plaat          |Recup      |€ 3,5         |1     |€ 3,5    |
 |11        |18650 Batterij     |18650 3.6V              |Nieuw      |€ 4.99        |2     |€ 9.98   |
 |12        |Battery houder     |18650 dubbel houder     |Nieuw      |€ 2.49        |1     |€ 2.49   |
-|13        |Batterij oplader   |18650 batterij oplader  |Recup      |€ 0           |0     |€ 0      |
-|14        |Klein materiaal    |Soldeer tin/bouten/etc  |Recup      |€ 0           |1     |€ 0      |
+|13        |Batterij oplader   |18650 batterij oplader  |Recup      |€ 4,95        |1     |€ 4,95   |
+|13        |Arduino materiaal  |Weerstanden, LED, etc   |Recup      |€ 2           |1     |€ 2      |
+|14        |Klein materiaal    |Soldeer tin/bouten/etc  |Recup      |€ 2           |1     |€ 2      |
 
 Batterij batterijbhouder!
 SUBTOTAAL : € 91,87
