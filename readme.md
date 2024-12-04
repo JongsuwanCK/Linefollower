@@ -2,10 +2,6 @@
 
 ![LNF](https://github.com/user-attachments/assets/0cd849b1-e389-4d29-acc0-aac31ba6d942)
 
-
-https://github.com/user-attachments/assets/bb503a0e-19db-4789-8bec-ec81183c82d5
-
-
   
 ## specifications
 
