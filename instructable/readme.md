@@ -1,6 +1,6 @@
 # Instructable
 
-Montage plan voor deze line follower.
+Montage plan : Linefollower
 
 Dit plan begeleidt je bij de bouw van een linefollower robot. Het gebruikt een PCB voor een nette en robuuste montage. Volg de stappen zorgvuldig om een goed functionerend systeem te bouwen.
 
