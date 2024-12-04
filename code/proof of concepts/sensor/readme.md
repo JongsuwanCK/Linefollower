@@ -2,8 +2,8 @@
 Minimale hard- en software die aantoont dat minimaal 6 sensoren onafhankelijk van elkaar kunnen uitgelezen worden (geen calibratie, normalisatie of interpolatie). Hierbij moet een zo groot mogelijk bereik van de AD converter benut worden (indien van toepassing)
 
 ### Benodigdheden
--Arduino Nano
--QTR-8A reflectiesensor
+- Arduino Nano
+- QTR-8A reflectiesensor
 
 ### Opmerkingen
 Het is niet nodig om de LEDON-pin op 5V aan te sluiten; de interne pull-up weerstand is voldoende.
