@@ -35,10 +35,7 @@ Kies voor een PCB-oplossing voor een nette en permanente montage. Volg de stappe
 - Motor aansluiten (Optioneel: je kunt de motoren direct op de DRV8833 aansluiten.)
 
 #### Prototype PCB
-![image](https://github.com/user-attachments/assets/135539e1-9cce-4a57-a907-c6fafda5c847)
-
-
-![image](https://github.com/user-attachments/assets/d0207764-e1f5-4d56-ba7e-5dffd97f70c5)
+![image](https://github.com/user-attachments/assets/135539e1-9cce-4a57-a907-c6fafda5c847) ![image](https://github.com/user-attachments/assets/d0207764-e1f5-4d56-ba7e-5dffd97f70c5)
 
 ![image](https://github.com/user-attachments/assets/4c13a013-9df3-428c-8c48-38c2cc964e31)
 
