@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/e56ce230-91b2-4a95-8198-2587c23d571f
 
 microcontroller: Arduino Nano
  
-motors: 50:1 Micro Metal Gearmotor HP
+motors: GA12N20 50:1 Motor
 
 h-bridge: DRV8833
 
