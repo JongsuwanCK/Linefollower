@@ -10,7 +10,8 @@ Je hebt twee 18650 li-ion batterijen nodig en een geschikte oplader voor dit typ
 Zie proof of concepts wireless communication
 https://github.com/JongsuwanCK/Linefollower/tree/main/code/proof%20of%20concepts/wireless%20communication
 
-![image](https://github.com/user-attachments/assets/1c6adeb1-325e-43d8-b971-8172ab639c3f)
+![image](https://github.com/user-attachments/assets/d25d12cd-fcf0-4235-b84d-1e9d849035ae)
+
 
 
 #### commando's
