@@ -49,18 +49,17 @@ Voor een stevig chassis gebruik je een polulu chassis (zie BOM), of een custom P
 
 Monteer de onderdelen:
 
-1. Bevestig de motoren en wielen stevig met schroeven op het chassis.
+1. Bevestig de motoren en wielen (met behulp van de motor houder) stevig met schroeven op het chassis.
 2. Monteer de Pololu bal caster stevig met schroeven op het chassis.
 3. Bevestig de Arduino Nano Screw Terminal met schroeven aan het chassis.
 4. Zet de PCB vast op het chassis met schroeven en lijm voor extra stabiliteit.
 5. Monteer de batterijhouder aan de achterzijde van de Arduino Nano Terminal.
 
-![image](https://github.com/user-attachments/assets/510c215f-5ca3-4905-854c-ae2e89ea5c17) ![image](https://github.com/user-attachments/assets/7a14c5d3-e99b-4fe0-8705-f27297cf3fca)
-
-
 ### Stap 5 : Bedrading volgens schema
 
 Sluit de component aan zoals op het elektronisch schema.
+
+![image](https://github.com/user-attachments/assets/510c215f-5ca3-4905-854c-ae2e89ea5c17) ![image](https://github.com/user-attachments/assets/7a14c5d3-e99b-4fe0-8705-f27297cf3fca)
 
 ### Stap 6 : Code
 
