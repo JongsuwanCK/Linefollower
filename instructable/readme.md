@@ -23,7 +23,7 @@ https://github.com/JongsuwanCK/Linefollower/tree/main/code/proof%20of%20concepts
 
 Kies voor een PCB-oplossing voor een nette en permanente montage. Volg de stappen hieronder:
 
-*Soldeer vrouwelijke/mannelijke connectoren (naar jouw voorkeur) op de Arduino Nano screw voor de volgende onderdelen*
+*Soldeer vrouwelijke/mannelijke connectoren (naar jouw voorkeur) op de Arduino Nano screw terminal voor de volgende onderdelen*
 - HC05 (Bluethooth communicatie)
 - DRV8833 (H-brug motor driver)
 
@@ -43,26 +43,19 @@ Kies voor een PCB-oplossing voor een nette en permanente montage. Volg de stappe
 ![image](https://github.com/user-attachments/assets/fdfb9a1a-8de1-44ea-843e-780993983630) ![image](https://github.com/user-attachments/assets/765180ae-e483-4cb9-af57-899a7f809782)
 
 
-
 ### Stap 4 : Bouw van de line follower
 
-Voor een stevig chassis gebruik je een PVC-plaat. Volg de stappen hieronder:
+Voor een stevig chassis gebruik je een polulu chassis (zie BOM), of een custom PVC plaat. Volg de stappen hieronder:
 
-Snijd de PVC-plaat:
+Monteer de onderdelen:
 
-Snijd de plaat in een rechthoekige vorm die groot genoeg is om alle componenten te huisvesten. Zorg dat de afmetingen passen bij de motoren, batterijhouder en controller.
+1. Bevestig de motoren en wielen stevig met schroeven op het chassis.
+2. Monteer de Pololu bal caster stevig met schroeven op het chassis.
+3. Bevestig de Arduino Nano Screw Terminal met schroeven aan het chassis.
+4. Zet de PCB vast op het chassis met schroeven en lijm voor extra stabiliteit.
+5. Monteer de batterijhouder aan de achterzijde van de Arduino Nano Terminal.
 
--Boor gaten:
-
-Markeer de posities voor het bevestigen van motoren, batterijhouder en controller (Arduino Nano).
-Boor de benodigde gaten met een geschikte boormaat.
-Controleer of de gaten overeenkomen met de schroefgaten van de onderdelen.
-
--Monteer de onderdelen:
-
-Bevestig de motoren stevig met schroeven.
-Monteer de batterijhouder op een toegankelijke plaats.
-Bevestig de controller en zorg ervoor dat er ruimte is voor de bedrading.
+![image](https://github.com/user-attachments/assets/510c215f-5ca3-4905-854c-ae2e89ea5c17) ![image](https://github.com/user-attachments/assets/7a14c5d3-e99b-4fe0-8705-f27297cf3fca)
 
 
 ### Stap 5 : Bedrading volgens schema
