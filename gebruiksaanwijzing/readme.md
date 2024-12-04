@@ -14,7 +14,7 @@ https://github.com/JongsuwanCK/Linefollower/tree/main/code/proof%20of%20concepts
 
 
 
-#### Commando's
+### Commando's
 - debug [on/off]: Zet debug mode aan of uit om je ingestelde parameters op te vragen.
 - run: Start de line follower.
 - stop: Stop de line follower.
