@@ -3,12 +3,7 @@
 ![LNF](https://github.com/user-attachments/assets/0cd849b1-e389-4d29-acc0-aac31ba6d942)
 
 
-
-https://github.com/user-attachments/assets/8ea99259-5c7d-48a8-849e-2a9a4884076f
-
-https://github.com/user-attachments/assets/e56ce230-91b2-4a95-8198-2587c23d571f
-
-
+https://github.com/user-attachments/assets/bb503a0e-19db-4789-8bec-ec81183c82d5
 
 
   
