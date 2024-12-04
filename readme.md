@@ -1,6 +1,6 @@
 # LineFollower
 
-![20241117_175119](https://github.com/user-attachments/assets/870b748d-eb1d-4f2d-bd0e-d8237d4b21e9)
+![LNF](https://github.com/user-attachments/assets/0cd849b1-e389-4d29-acc0-aac31ba6d942)
 
   
 ## specifications
@@ -19,7 +19,7 @@ wireless communication: HC-05
 
 distance sensor - motors: 7,5 cm
 
-weight: 315g
+weight: 305g
 
-speed: 0.7m/s
+speed: 0.71m/s
 
