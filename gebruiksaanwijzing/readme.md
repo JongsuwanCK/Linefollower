@@ -14,7 +14,7 @@ https://github.com/JongsuwanCK/Linefollower/tree/main/code/proof%20of%20concepts
 
 
 
-#### commando's
+#### Commando's
 debug [on/off]: Zet debug mode aan of uit om je ingestelde parameters op te vragen.
 run: Start de line follower.
 stop: Stop de line follower.
@@ -35,15 +35,15 @@ Voor de kalibratie van de QTR-8A sensoren moet je de volgende stappen volgen:
 3. Wacht op de melding calibrate black done.
 4. Herhaal dezelfde procedure voor de witte kleur door het commando calibrate white in te voeren.
 
-### settings
+### Settings
 De robot rijdt stabiel met de volgende parameters:
 
 cycle time = 2000 µs
 power = 150
 diff = 0.35
 kp = 10.00
-ki = 0.0
-kd = 0.9
+ki = 0.00
+kd = 0.90
 
 ### Start/Stop button
 Je kunt de line follower zowel draadloos starten en stoppen als handmatig via een knop. Het is echter gemakkelijker om de robot draadloos te bedienen via de Bluetooth-verbinding.
