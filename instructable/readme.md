@@ -8,9 +8,13 @@ Dit plan begeleidt je bij de bouw van een linefollower robot. Het gebruikt een P
 
 Zorg ervoor dat je alle onderdelen uit de bill of materials (BOM) aanschaft.
 
+https://github.com/JongsuwanCK/Linefollower/tree/main/bill%20of%20materials
+
 ### Stap 2 : Controle componenten
 
 Voer proof-of-concept-tests uit om elk onderdeel te testen:
+
+https://github.com/JongsuwanCK/Linefollower/tree/main/code/proof%20of%20concepts
 
 * Verbind componenten tijdelijk en controleer of ze correct functioneren.
 * Los eventuele problemen op voordat je verdergaat.
@@ -29,6 +33,11 @@ Kies voor een PCB-oplossing voor een nette en permanente montage. Volg de stappe
 - Power switch (Schakelt het systeem in of uit.)
 - Interrupt button (Voor het starten/stoppen van de robot)
 - Motor aansluiten (Optioneel: je kunt de motoren direct op de DRV8833 aansluiten.)
+
+![image](https://github.com/user-attachments/assets/d0207764-e1f5-4d56-ba7e-5dffd97f70c5)
+![power](https://github.com/user-attachments/assets/08745f57-a98e-4748-9e59-9b3d854be240)
+
+
 
 ### Stap 4 : Bouw van de line follower
 
