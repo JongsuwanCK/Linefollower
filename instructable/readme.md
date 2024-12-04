@@ -40,9 +40,8 @@ Kies voor een PCB-oplossing voor een nette en permanente montage. Volg de stappe
 ![image](https://github.com/user-attachments/assets/4c13a013-9df3-428c-8c48-38c2cc964e31)
 
 #### Arduino nano screw terminal
-![image](https://github.com/user-attachments/assets/fdfb9a1a-8de1-44ea-843e-780993983630)
+![image](https://github.com/user-attachments/assets/fdfb9a1a-8de1-44ea-843e-780993983630) ![image](https://github.com/user-attachments/assets/765180ae-e483-4cb9-af57-899a7f809782)
 
-![image](https://github.com/user-attachments/assets/765180ae-e483-4cb9-af57-899a7f809782)
 
 
 ### Stap 4 : Bouw van de line follower
