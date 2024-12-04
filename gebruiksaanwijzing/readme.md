@@ -35,15 +35,18 @@ Voor de kalibratie van de QTR-8A sensoren moet je de volgende stappen volgen:
 3. Wacht op de melding calibrate black done.
 4. Herhaal dezelfde procedure voor de witte kleur door het commando calibrate white in te voeren.
 
+![image](https://github.com/user-attachments/assets/c4ca1e0e-b1dc-48ed-b370-6e63920a9b8f)
+Voorbeeld : Calibrate black
+
 ### Settings
 De robot rijdt stabiel met de volgende parameters:
 
-cycle time = 2000 µs
-power = 150
-diff = 0.35
-kp = 10.00
-ki = 0.00
-kd = 0.90
+- cycle time = 2000 µs
+- power = 150
+- diff = 0.35
+- kp = 10.00
+- ki = 0.00
+- kd = 0.90
 
 ### Start/Stop button
 Je kunt de line follower zowel draadloos starten en stoppen als handmatig via een knop. Het is echter gemakkelijker om de robot draadloos te bedienen via de Bluetooth-verbinding.
