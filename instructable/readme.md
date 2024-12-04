@@ -34,9 +34,17 @@ Kies voor een PCB-oplossing voor een nette en permanente montage. Volg de stappe
 - Interrupt button (Voor het starten/stoppen van de robot)
 - Motor aansluiten (Optioneel: je kunt de motoren direct op de DRV8833 aansluiten.)
 
-![image](https://github.com/user-attachments/assets/d0207764-e1f5-4d56-ba7e-5dffd97f70c5)
-![power](https://github.com/user-attachments/assets/08745f57-a98e-4748-9e59-9b3d854be240)
+#### Prototype PCB
+![image](https://github.com/user-attachments/assets/e719a3bf-e1f3-417f-9c8e-8facdbbbf6c7)
 
+![image](https://github.com/user-attachments/assets/d0207764-e1f5-4d56-ba7e-5dffd97f70c5)
+
+![image](https://github.com/user-attachments/assets/4c13a013-9df3-428c-8c48-38c2cc964e31)
+
+#### Arduino nano screw terminal
+![image](https://github.com/user-attachments/assets/fdfb9a1a-8de1-44ea-843e-780993983630)
+
+![image](https://github.com/user-attachments/assets/765180ae-e483-4cb9-af57-899a7f809782)
 
 
 ### Stap 4 : Bouw van de line follower
