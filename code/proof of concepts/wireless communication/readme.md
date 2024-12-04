@@ -2,11 +2,11 @@
 Deze handleiding beschrijft hoe je draadloze communicatie via Bluetooth kunt opzetten met een Arduino Nano en een HC-05 module.
 
 ### Benodigdheden
-Arduino Nano
-HC-05
-LED
-Weerstanden
-Android Smartphone
+- Arduino Nano
+- HC-05
+- LED
+- Weerstanden
+- Android Smartphone
 
 ### Opmerkingen
 Met behulp van de SoftwareSerial-library kun je een extra seriële communicatiepoort creëren. Dit maakt het mogelijk om zowel met de computer (via de Serial Monitor) als met een Bluetooth-app te communiceren.
