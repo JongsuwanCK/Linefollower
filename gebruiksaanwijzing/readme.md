@@ -53,3 +53,7 @@ De robot rijdt stabiel met de volgende parameters:
 Je kunt de line follower zowel draadloos starten en stoppen als handmatig via een knop. Het is echter gemakkelijker om de robot draadloos te bedienen via de Bluetooth-verbinding.
 
 ![power](https://github.com/user-attachments/assets/81607dc4-aa71-4108-b858-470b9792114c)
+
+BLUE LED : RUNNING
+
+RED LED : POWER ON
