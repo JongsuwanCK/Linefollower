@@ -37,7 +37,7 @@ Voor de kalibratie van de QTR-8A sensoren moet je de volgende stappen volgen:
 
 ![image](https://github.com/user-attachments/assets/c4ca1e0e-b1dc-48ed-b370-6e63920a9b8f)
 
-Voorbeeld : Calibrate black
+Voorbeeld foto : calibrate black
 
 ### Settings
 De robot rijdt stabiel met de volgende parameters:
