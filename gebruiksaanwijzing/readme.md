@@ -15,17 +15,17 @@ https://github.com/JongsuwanCK/Linefollower/tree/main/code/proof%20of%20concepts
 
 
 #### Commando's
-debug [on/off]: Zet debug mode aan of uit om je ingestelde parameters op te vragen.
-run: Start de line follower.
-stop: Stop de line follower.
-set cycle [µs]: Stel de cycle time in. Zorg ervoor dat deze hoger is dan de calculation time.
-set power [0..255]: Stel de snelheid van de line follower in. Hoe hoger de waarde, hoe sneller de robot.
-set diff [0..1]: Stel het differentieel in. Dit bepaalt hoeveel de robot afremt in bochten.
-set kp [0..]: Stel de proportionele correctie in. Hoe hoger de waarde, hoe meer de robot zich zelf corrigeert om de lijn in het midden te houden. Te hoog kan leiden tot schokkende bewegingen van links naar rechts.
-set ki [0..]: Stel de integrerende correctie in. Hoe langer de fout duurt, hoe sterker de correctie.
-set kd [0..]: Stel de afgeleide correctie in. Dit kijkt naar de fout in de vorige cyclus en past de correctie aan. Als de fout groot was, wordt de correctie sterker.
-calibrate black: Kalibreer de zwarte kleur.
-calibrate white: Kalibreer de witte kleur.
+- debug [on/off]: Zet debug mode aan of uit om je ingestelde parameters op te vragen.
+- run: Start de line follower.
+- stop: Stop de line follower.
+- set cycle [µs]: Stel de cycle time in. Zorg ervoor dat deze hoger is dan de calculation time.
+- set power [0..255]: Stel de snelheid van de line follower in. Hoe hoger de waarde, hoe sneller de robot.
+- set diff [0..1]: Stel het differentieel in. Dit bepaalt hoeveel de robot afremt in bochten.
+- set kp [0..]: Stel de proportionele correctie in. Hoe hoger de waarde, hoe meer de robot zich zelf corrigeert om de lijn in het midden te houden. Te hoog kan leiden tot schokkende bewegingen van links naar rechts.
+- set ki [0..]: Stel de integrerende correctie in. Hoe langer de fout duurt, hoe sterker de correctie.
+- set kd [0..]: Stel de afgeleide correctie in. Dit kijkt naar de fout in de vorige cyclus en past de correctie aan. Als de fout groot was, wordt de correctie sterker.
+- calibrate black: Kalibreer de zwarte kleur.
+- calibrate white: Kalibreer de witte kleur.
 
 ### Kalibratie
 Voor de kalibratie van de QTR-8A sensoren moet je de volgende stappen volgen:
