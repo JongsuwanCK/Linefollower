@@ -18,7 +18,7 @@ h-bridge: DRV8833
 
 sensors: QTR8-A
 
-batteries: 18650 3.6V
+batteries: 2x 18650 3.6V
 
 wireless communication: HC-05
 
