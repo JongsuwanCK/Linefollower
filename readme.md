@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/b35a132d-177b-4dac-8615-47c2cd5e7fbc
 
 
   
-## specifications
+## Specifications
 
 microcontroller: Arduino Nano
  
