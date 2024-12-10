@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/43652baa-66d6-4aab-abaa-5806213fc6df
 
 microcontroller: Arduino Nano
  
-motors: GA12N20 50:1 Motor
+motors: 50:1 Motor
 
 h-bridge: DRV8833
 
