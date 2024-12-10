@@ -2,10 +2,8 @@
 
 ![LS2](https://github.com/user-attachments/assets/f6b1eb4a-91e0-4a48-bf10-57ccd2c71b92)
 
-https://github.com/user-attachments/assets/b35a132d-177b-4dac-8615-47c2cd5e7fbc
+https://github.com/user-attachments/assets/43652baa-66d6-4aab-abaa-5806213fc6df
 
-
-  
 ## Specifications
 
 microcontroller: Arduino Nano
