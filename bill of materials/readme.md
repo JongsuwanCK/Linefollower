@@ -6,7 +6,7 @@
 |1         |Arduino Nano       |Microcontroller         |Recup      |€ 22,15       |1     |€ 22,15  |
 |2         |HC-05 (Clone)      |Bluethooth adapter      |Nieuw      |€ 2,30        |1     |€ 2,30   |
 |3         |QTR8-A             |Analoge IR sensor       |Nieuw      |€ 11,25       |1     |€ 11,25  |
-|4         |GA12N20 50:1 Motor |Micro metal gear motor  |Nieuw      |€ 2,5         |2     |€ 5      |
+|4         |50:1 Motor         |Micro metal gear motor  |Nieuw      |€ 2,5         |2     |€ 5      |
 |5         |Motor houder       |Motor bevestiging       |Nieuw      |€ 1,49        |1     |€ 1.49   |
 |6         |Terminal Nano      |Nano screw adapter      |Recup      |€ 9,50        |1     |€ 9,50   |
 |7         |Soldeerplaat       |Custom PCB              |Recup      |€ 0,50        |1     |€ 0,50   |
