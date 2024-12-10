@@ -2,8 +2,6 @@
 
 ![LS2](https://github.com/user-attachments/assets/f6b1eb4a-91e0-4a48-bf10-57ccd2c71b92)
 
-![LS1](https://github.com/user-attachments/assets/6b2064d4-45e8-4c12-9dd6-21e781f562e5)
-
 https://github.com/user-attachments/assets/b35a132d-177b-4dac-8615-47c2cd5e7fbc
 
 
